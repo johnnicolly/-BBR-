@@ -83,3 +83,4 @@ dpkg -i linux-image-4.12.4-041204-generic_4.12.4-041204.201707271932_amd64.deb
 如果你使用的是 Google Cloud Platform （GCP）更换内核，有时会遇到重启后，整个磁盘变为只读的情况。只需执行以下命令即可恢复：
 
 mount -o remount rw /
+轉自https://teddysun.com/489.html，感谢
